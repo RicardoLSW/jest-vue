@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header style snapshot 1`] = `
+<div class="header">
+  <div>TodoList</div> <input data-test="input" placeholder="TodoItem">
+</div>
+`;
